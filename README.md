@@ -18,6 +18,7 @@
      : 문장 속에서 잘못 쓰인 단어를 수정. 뿐만 아니라 억양, 문장 구성 등에서 더 나은 문장을 추천해주는 문장 관련 사이트
     - instatext
     - quillbot
-
+    
+<br>
 ### [실행화면]
 ![image](https://user-images.githubusercontent.com/55525614/208013176-f37f20c5-ed8d-4fdf-a66a-35f5bb0e7f45.png)
