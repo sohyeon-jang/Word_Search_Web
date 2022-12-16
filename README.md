@@ -1,5 +1,4 @@
-# Word SearchWeb
-
+# WordSearch Web
 
 #### 문장을 통해 단어를 검색하는 웹사이트
 
